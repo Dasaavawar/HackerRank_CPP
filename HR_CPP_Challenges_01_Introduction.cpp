@@ -362,8 +362,6 @@ using namespace std;
 string ltrim(const string &);
 string rtrim(const string &);
 
-
-
 int main()
 {
     string n_temp;
@@ -710,7 +708,6 @@ Sample Output
 #include <algorithm>
 using namespace std;
 
-
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     int N;
@@ -790,7 +787,6 @@ We perform the following q = 2 queries:
 #include <algorithm>
 using namespace std;
 
-
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     int n, q;
@@ -814,5 +810,4 @@ int main() {
      
     return 0;
 }
-
 
