@@ -459,7 +459,6 @@ class Box {
     }
 };
 
-
 void check2()
 {
 	int n;
@@ -469,11 +468,11 @@ void check2()
 	{
 		int type;
 		cin>>type;
-		if(type ==1)
+		if(type==1)
 		{
 			cout<<temp<<endl;
 		}
-		if(type == 2)
+		if(type==2)
 		{
 			int l,b,h;
 			cin>>l>>b>>h;
@@ -1035,5 +1034,4 @@ int main() {
    }
    return 0;
 }
-
 
