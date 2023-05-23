@@ -44,6 +44,7 @@ In an isosceles triangle two sides are equal
 I am a triangle
 
 */
+/* Solution */
 
 #include <cmath>
 #include <cstdio>
@@ -148,7 +149,6 @@ class RectangleArea: public Rectangle{
         cout<<height*width;
     }
 };
-
 
 int main()
 {
@@ -496,14 +496,11 @@ class D : public A, public B, public C
 		 void check(int); //Do not delete this line.
 };
 
-
-
 void D::check(int new_val)
 {
     update_val(new_val);
     cout << "Value = " << val << endl << "A's func called " << getA() << " times " << endl << "B's func called " << getB() << " times" << endl << "C's func called " << getC() << " times" << endl;
 }
-
 
 int main()
 {
@@ -511,7 +508,6 @@ int main()
     int new_val;
     cin >> new_val;
     d.check(new_val);
-
 }
 
 
@@ -711,5 +707,4 @@ int main() {
     }
     return 0;
 }
-
 
