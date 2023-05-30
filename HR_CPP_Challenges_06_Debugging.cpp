@@ -1,4 +1,4 @@
-/* HackerRank - C++ - Introduction - VI - Debugging */
+/* HackerRank - C++ - Challenges - VI - Debugging */
 
 
 /* 1. Debugging - Hotel Prices */
