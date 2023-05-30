@@ -1,4 +1,4 @@
-/* HackerRank - C++ - Introduction - III - Classes */
+/* HackerRank - C++ - Challenges - III - Classes */
 
 
 /* 1. Classes - Structs */
