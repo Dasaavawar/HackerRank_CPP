@@ -1,4 +1,4 @@
-/* HackerRank - C++ - Introduction - V - Inheritance */
+/* HackerRank - C++ - Challenges - V - Inheritance */
 
 
 /* 1. Inheritance - Inheritance Introduction */
